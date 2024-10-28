@@ -27,16 +27,10 @@ body {
 }
 
 .banner {
-  width: 100%; /* Adiciona width: 100% à classe banner */
+  background-image: url('/imagens/Banner-1.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 278px;
-}
-
-.banner img {
-  width: 100%; /* Adiciona width: 100% à imagem dentro do banner */
-  height: 100%; /* Adiciona height: 100% à imagem dentro do banner */
-  object-fit: cover; /* Ajuste para a imagem ocupar todo o espaço */
 }
 
 .nav {
